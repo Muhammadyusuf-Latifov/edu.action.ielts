@@ -15,7 +15,7 @@ export default function App() {
     trf,
 
     name: "MUXAMMADYUSUFXON LATIFOV",
-    testTakerId: "706593",
+    testTakerId: "520624",
     centreNumber: "UZ006",
     testDate: "21/06/2026",
     trfNumber: "25UZ706593LM006",
